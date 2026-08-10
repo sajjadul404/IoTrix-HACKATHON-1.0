@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="IoTrix_Hacksthon.png" width="100%"/>
+<img src="IoTrix_Hacksthon.png" ...>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8E44AD&center=true&vCenter=true&width=650&lines=IoTrix+Hackathon+1.0;Real-Time+Multi-Sensor+Monitoring;Web-Based+IoT+Monitoring+%26+Control" alt="Typing SVG" />
 
