@@ -2,10 +2,6 @@
 #define LED_PIN 2
 #define DRY_THRESHOLD 2200 // Adjust based on calibration
 
-IoTrix – Hackathon 1.0 Project Report IEEE BUBT Student Branch
-
-11
-
 void setup() {
 pinMode(LED_PIN, OUTPUT);
 Serial.begin(115200);
